@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Контакты
 permalink: /about/
 ---
 
-Some information about you!
+Республика Коми г. Ухта <br>
+ул. Оплеснина д. 14 каб. 115
 
-### More Information
+### Контактные телефоны
 
-A place to include any other types of information that you'd like to include about yourself.
+[+7-(912)-129-24-53](telto:+79121292453) <br>
+[+7-(996)-589-72-14](telto:+79965897214)
 
-### Contact me
+### Электронная почта
 
-[email@domain.com](mailto:email@domain.com)
+[lubushka@gmail.com](mailto:lubushka@gmail.com)

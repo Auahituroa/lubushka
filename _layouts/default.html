@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }} г. Ухта Республика Коми</title>
 
     {% include meta.html %}
 
@@ -25,10 +25,15 @@
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
-
+          <div class="tel-info">
+            <a href="tel:+79121292453">+7-(912)-129-24-53</a><br>
+            <a href="tel:+79965897214">+7-(996)-589-72-14</a>
+          </div>
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/">Новости</a>
+            <a href="{{ site.baseurl }}/gallery">Фотогалерея</a>
+            <a href="{{ site.baseurl }}/price">Цены</a>
+            <a href="{{ site.baseurl }}/about">Контакты</a>
           </nav>
         </header>
       </div>
