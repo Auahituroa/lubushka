@@ -226,13 +226,13 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 20px;
 
   @include mobile {
     float: none;
     margin-top: 19px;
     display: block;
-    font-size: 16px;
+    font-size: 18px;
   }
 
   a {
@@ -320,15 +320,15 @@ th {
   background:#1b1e24;
   border-bottom:4px solid #9ea7af;
   border-right: 1px solid #343a45;
-  font-size:22px;
+  font-size:20px;
   font-weight: 100;
-  padding:22px;
+  padding:18px;
   text-align:left;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   vertical-align:middle;
   @include mobile {
-    font-size: 20px;
-    padding: 20px;
+    font-size: 18px;
+    padding: 16px;
   }
 }
  
@@ -379,16 +379,16 @@ tr:last-child td:last-child {
  
 td {
   background:#FFFFFF;
-  padding:20px;
+  padding:16px;
   text-align:left;
   vertical-align:middle;
   font-weight:300;
-  font-size:18px;
+  font-size:16px;
   text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
   border-right: 1px solid #C1C3D1;
   @include mobile {
-    font-size: 16px;
-    padding: 16px;
+    font-size: 14px;
+    padding: 14px;
   }
 }
 
