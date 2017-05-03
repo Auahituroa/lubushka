@@ -14,4 +14,4 @@ permalink: /about/
 
 ### Электронная почта
 
-[lubushka@gmail.com](mailto:lubushka@gmail.com)
+[atelier.lubushka@gmail.com](mailto:atelier.lubushka@gmail.com)
