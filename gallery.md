@@ -12,3 +12,5 @@ permalink: /gallery/
 ![Ателье Любушка]({{ site.baseurl }}/images/6.jpg)
 ![Ателье Любушка]({{ site.baseurl }}/images/7.jpg)
 ![Ателье Любушка]({{ site.baseurl }}/images/8.jpg)
+![Ателье Любушка]({{ site.baseurl }}/images/9.jpg)
+![Ателье Любушка]({{ site.baseurl }}/images/10.jpg)
