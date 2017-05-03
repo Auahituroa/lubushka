@@ -299,6 +299,10 @@ footer {
   column-width: 357px;
   column-gap: 6px;
   
+  p {
+    margin: 0;
+  }
+
   img {
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
   }
