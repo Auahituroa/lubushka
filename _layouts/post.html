@@ -6,7 +6,7 @@ layout: default
   <h1>{{ page.title }}</h1>
 
   <div class="date">
-    Опубликовано {{ page.date | date_to_long_string }} года
+    Опубликовано {{ page.date | date: "%d/%m/%Y" }} года
   </div>
 
   <div class="entry">
